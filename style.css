@@ -1,5 +1,5 @@
 p {
-    color: red;
+    color: rgb(0, 153, 255);
 
 }
 
@@ -8,6 +8,29 @@ p {
 }
 
 #roxo {
-    color:rgb(119, 1, 236)
+    color:red
 
 }
+
+.cor{
+    color: rgb(51, 153, 139)
+}
+
+h1{
+    color: rgb(20, 20, 19)
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 75px;
+    
+    }
+
+    h2{
+        color: rgb(2, 15, 19);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 60px;
+    }
+
+    body {
+        background-image: url(https://static1.patasdacasa.com.br/articles/5/14/5/@/486-descubra-tudo-sobre-a-adaptacao-e-o-dia-articles_media_mobile-2.jpg)
+    }
+
+    

@@ -1,0 +1,22 @@
+p{
+    color: rgb(235, 235, 238);
+    font-family: monospace;
+    
+}
+    
+body{
+    background-color: rgb(128, 133, 173);
+    font-family: monospace;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+}
+h2{
+    color: rgb(143, 16, 122);
+    font-family: monospace;
+}
+h3{
+    color: blue;
+    font-family: monospace;
+}

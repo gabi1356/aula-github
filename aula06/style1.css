@@ -21,10 +21,28 @@ main p{
 .preto{
     color: black;
 }
-form{
-    display: flex;/*deixar o elemento ao lado do outro de forma flexivel*/
-    flex-direction: column;/*deixar as caixas de escrever em coluna*/
-    gap: 10px;/*espaçamento lateral/top/em baixo*/
 
-
+fieldset{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
 }
+table{
+    border: 1px solid rebeccapurple;
+    width: 600px;
+}
+th{
+    background-color: azure;
+    /*definir uma cor de fundo para os titulos da tabela*/
+
+    padding: 10px;/*espaçamento interno dos titulos*/
+}
+td{
+    background-color: rgb(124, 99, 182);/*defenir uma cor de fundo para as respostas da tabela*/
+    padding: 10px;/*espaçamento interno das palavras*/
+}
+    footer{
+        border: 1px solid royalblue;
+        margin-top: 20px;/*espaçamento externo do footer,parte superior*/
+    }
+

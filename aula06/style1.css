@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(190, 161, 224);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+header {
+    border: 1px solid /* criar borda*/
+    rebeccapurple/*fundo de cor */
+    padding:10px;/*espaçamento interno*/
+    text-align: center; /*alinhar conteudo no centro*/
+}
+main{
+    border: 1px solid red;
+    padding: 20px;
+    margin-top: 30px;/*espaçamento externo do topo*/
+}
+main p{
+    color: aqua;
+}
+.preto{
+    color: black;
+}
+form{
+    display: flex;/*deixar o elemento ao lado do outro de forma flexivel*/
+    flex-direction: column;/*deixar as caixas de escrever em coluna*/
+    gap: 10px;/*espaçamento lateral/top/em baixo*/
+
+
+}
